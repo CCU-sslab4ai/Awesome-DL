@@ -12,3 +12,6 @@ Collect useful articles, paper, implements
 
 ## Video
 - [NIPS 2017](https://nips.cc/Conferences/2017/Schedule?type=Tutorial)
+
+## Open Source
+- [GANotebooks](https://github.com/tjwei/GANotebooks)
