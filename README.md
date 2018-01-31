@@ -12,6 +12,7 @@ Collect useful articles, paper, implements
 
 ## Video
 - [NIPS 2017](https://nips.cc/Conferences/2017/Schedule?type=Tutorial)
+- [李宏毅教學總整理](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 
 ## Open Source
 - [GANotebooks](https://github.com/tjwei/GANotebooks)
