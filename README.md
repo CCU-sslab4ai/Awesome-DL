@@ -16,3 +16,6 @@ Collect useful articles, paper, implements
 
 ## Open Source
 - [GANotebooks](https://github.com/tjwei/GANotebooks)
+
+## Transfer Learning
+- [什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)
