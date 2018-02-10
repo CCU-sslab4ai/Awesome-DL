@@ -21,3 +21,6 @@ Collect useful articles, paper, implements
 ## Transfer Learning
 - [什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)
 - [Transfer Learning using Keras](https://towardsdatascience.com/transfer-learning-using-keras-d804b2e04ef8)
+
+## GAN
+- [BicycleGAN](https://dosudodl.wordpress.com/2018/02/08/nips-selected-paper-%E7%B9%BC%E6%9C%89%E5%90%8D%E7%9A%84cyclegan%E4%B9%8B%E5%BE%8C%E5%8F%88%E5%87%BA%E7%8F%BE%E7%9A%84bicyclegan/)
