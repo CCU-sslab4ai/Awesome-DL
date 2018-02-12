@@ -35,3 +35,13 @@ Bengio, Yoshua
 ### Abstract
 
 In this paper, we propose a novel neural network model called RNN Encoder-Decoder that consists of two recurrent neural networks (RNN). One RNN encodes a sequence of symbols into a fixed-length vector representation, and the other decodes the representation into another sequence of symbols. The encoder and decoder of the proposed model are jointly trained to maximize the conditional probability of a target sequence given a source sequence. The performance of a statistical machine translation system is empirically found to improve by using the conditional probabilities of phrase pairs computed by the RNN Encoder-Decoder as an additional feature in the existing log-linear model. Qualitatively, we show that the proposed model learns a semantically and syntactically meaningful representation of linguistic phrases.
+
+## A Survey on Acceleration of Deep Convolutional Neural Networks([1802.00939.pdf](./1802.00939.pdf))
+
+### Author
+
+Jian Cheng, Peisong Wang, Gang Li, Qinghao Hu, Hanqing Lu
+
+### Abstract
+
+Deep Neural Networks have achieved remarkable progress during the past few years and are currently the fundamental tools of many intelligent systems. At the same time, the computational complexity and resource consumption of these networks are also continuously increasing. This will pose a significant challenge to the deployment of such networks, especially for real-time applications or on resource-limited devices. Thus, network acceleration have become a hot topic within the deep learning community. As for hardware implementation of deep neural networks, a batch of accelerators based on FPGA/ASIC have been proposed these years. In this paper, we provide a comprehensive survey about the recent advances on network acceleration, compression and accelerator design from both algorithm and hardware side. Specifically, we provide thorough analysis for each of the following topics: network pruning, low-rank approximation, network quantization, teacher-student networks, compact network design and hardware accelerator. Finally, we make a discussion and introduce a few possible future directions.
