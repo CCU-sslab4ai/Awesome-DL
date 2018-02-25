@@ -14,10 +14,12 @@ Collect useful articles, paper, implements
 - [NIPS 2017](https://nips.cc/Conferences/2017/Schedule?type=Tutorial)
 - [李宏毅教學總整理](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 - [站在巨人的肩膀上, 迁移学习 Transfer Learning](https://youtu.be/fCEHdyLkjNE)
+- [Stanford CS224N](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [NTU MiuLab](https://www.youtube.com/channel/UCyB2RBqKbxDPGCs1PokeUiA/videos)
 
 ## Open Source
 - [GANotebooks](https://github.com/tjwei/GANotebooks)
+- [pytorch-book](https://github.com/chenyuntc/pytorch-book)
 
 ## Transfer Learning
 - [什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)
