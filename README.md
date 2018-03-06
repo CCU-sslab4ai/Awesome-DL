@@ -29,3 +29,6 @@ Collect useful articles, paper, implements
 
 ## GAN
 - [BicycleGAN](https://dosudodl.wordpress.com/2018/02/08/nips-selected-paper-%E7%B9%BC%E6%9C%89%E5%90%8D%E7%9A%84cyclegan%E4%B9%8B%E5%BE%8C%E5%8F%88%E5%87%BA%E7%8F%BE%E7%9A%84bicyclegan/)
+
+## Pre-processing
+- [一文详解 Word2vec 之 Skip-Gram 模型（结构篇）](https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html)
