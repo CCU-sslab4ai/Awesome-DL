@@ -32,3 +32,7 @@ Collect useful articles, paper, implements
 
 ## Pre-processing
 - [一文详解 Word2vec 之 Skip-Gram 模型（结构篇）](https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html)
+
+## Keras
+- [keras：3)Embedding层详解](http://blog.csdn.net/jiangpeng59/article/details/77533309)
+- [keras：4)LSTM函数详解](http://blog.csdn.net/jiangpeng59/article/details/77646186)
