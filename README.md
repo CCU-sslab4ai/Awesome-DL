@@ -10,6 +10,7 @@ Collect useful articles, paper, implements
 - [Improving the way neural networks learn](http://neuralnetworksanddeeplearning.com/chap3.html)
 - [设计embedding维数的时候有什么讲究？](https://www.zhihu.com/question/60648826)
 - [深度机器学习中的batch的大小对学习效果有何影响？](https://www.zhihu.com/question/32673260)
+- [HMM和RNN是什么关系？功效上两者有冲突重叠？](https://www.zhihu.com/question/57396443)
 
 ## Video
 - [NIPS 2017](https://nips.cc/Conferences/2017/Schedule?type=Tutorial)
