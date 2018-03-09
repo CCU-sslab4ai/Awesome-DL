@@ -12,6 +12,7 @@ Collect useful articles, paper, implements
 - [深度机器学习中的batch的大小对学习效果有何影响？](https://www.zhihu.com/question/32673260)
 - [HMM和RNN是什么关系？功效上两者有冲突重叠？](https://www.zhihu.com/question/57396443)
 - [李宏毅ML Lecture 7: Backpropagation](https://youtu.be/ibJpTrp5mcE)
+- [Negative log-likelihood function](http://www.cnblogs.com/ZJUT-jiangnan/p/5489047.html)
 
 ## Video
 - [NIPS 2017](https://nips.cc/Conferences/2017/Schedule?type=Tutorial)
