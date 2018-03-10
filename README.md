@@ -19,6 +19,7 @@ Collect useful articles, paper, implements
 - [站在巨人的肩膀上, 迁移学习 Transfer Learning](https://youtu.be/fCEHdyLkjNE)
 - [Stanford CS224N](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [NTU MiuLab](https://www.youtube.com/channel/UCyB2RBqKbxDPGCs1PokeUiA/videos)
+- [12 effective approaches to attention based neural machine translation](https://youtu.be/XvOKXJxDn1U)
 
 ## Open Source
 - [GANotebooks](https://github.com/tjwei/GANotebooks)
