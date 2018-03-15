@@ -4,6 +4,7 @@ Collect useful articles, paper, implements
 ## Seq2seq
 - [seq2seq系列相关实现与案例（feedback、peek、attention类型）](http://blog.csdn.net/sinat_26917383/article/details/75050225)
 - [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
+- [Improving Sequence Generation by GAN](https://youtu.be/Adi54-wp8Qk)
 
 ## Basic Concepts
 
@@ -20,6 +21,7 @@ Collect useful articles, paper, implements
 - [站在巨人的肩膀上, 迁移学习 Transfer Learning](https://youtu.be/fCEHdyLkjNE)
 - [Stanford CS224N](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [NTU MiuLab](https://www.youtube.com/channel/UCyB2RBqKbxDPGCs1PokeUiA/videos)
+- [12 effective approaches to attention based neural machine translation](https://youtu.be/XvOKXJxDn1U)
 
 ## Open Source
 - [GANotebooks](https://github.com/tjwei/GANotebooks)
