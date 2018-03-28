@@ -42,3 +42,6 @@ Collect useful articles, paper, implements
 ## Keras
 - [keras：3)Embedding层详解](http://blog.csdn.net/jiangpeng59/article/details/77533309)
 - [keras：4)LSTM函数详解](http://blog.csdn.net/jiangpeng59/article/details/77646186)
+
+## Embedding
+- [Word Vector Representations: word2vec (Stanford NLP)](https://youtu.be/ERibwqs9p38)
