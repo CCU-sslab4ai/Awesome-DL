@@ -45,3 +45,4 @@ Collect useful articles, paper, implements
 
 ## Embedding
 - [Word Vector Representations: word2vec (Stanford NLP)](https://youtu.be/ERibwqs9p38)
+- [GloVe (Stanford NLP)](https://youtu.be/ASn7ExxLZws)
