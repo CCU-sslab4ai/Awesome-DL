@@ -40,6 +40,7 @@ Collect useful articles, paper, implements
 - [一文详解 Word2vec 之 Skip-Gram 模型（结构篇）](https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html)
 - [Word2vec with Pytorch](https://adoni.github.io/2017/11/08/word2vec-pytorch/)
 - [Implementing word2vec in PyTorch (skip-gram model)](https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb)
+- [基於Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)
 
 ## Keras
 - [keras：3)Embedding层详解](http://blog.csdn.net/jiangpeng59/article/details/77533309)
