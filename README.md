@@ -49,3 +49,7 @@ Collect useful articles, paper, implements
 ## Embedding
 - [Word Vector Representations: word2vec (Stanford NLP)](https://youtu.be/ERibwqs9p38)
 - [GloVe (Stanford NLP)](https://youtu.be/ASn7ExxLZws)
+
+## CUDA加速
+
+- [CUDA系列学习（五）GPU基础算法: Reduce, Scan, Histogram](https://blog.csdn.net/abcjennifer/article/details/43528407)
