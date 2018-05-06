@@ -28,6 +28,7 @@ Collect useful articles, paper, implements
 - [GANotebooks](https://github.com/tjwei/GANotebooks)
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book)
 - [polyglot](http://polyglot.readthedocs.io/en/latest/)
+- [中文数据预处理材料](https://github.com/dongxiexidian/Chinese)
 
 ## Transfer Learning
 - [什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)
