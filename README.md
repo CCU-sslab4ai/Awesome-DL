@@ -54,3 +54,7 @@ Collect useful articles, paper, implements
 ## CUDA加速
 
 - [CUDA系列学习（五）GPU基础算法: Reduce, Scan, Histogram](https://blog.csdn.net/abcjennifer/article/details/43528407)
+
+## Policy Gradient
+
+- [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/)
